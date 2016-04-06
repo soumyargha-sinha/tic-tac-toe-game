@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/samsinha/AndroidStudioProjectst/connect4/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/samsinha/AndroidStudioProjectst/connect4/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e0d47fc70f5d439d589c0c4b26e169d8d5c4f702.jar" />
+    </item>
+    <item
+        jar="/home/samsinha/AndroidStudioProjectst/connect4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/samsinha/AndroidStudioProjectst/connect4/app/build/intermediates/pre-dexed/debug/classes-f93c57bfd499d3645b19bbd90bfdb7045b4e29a3.jar" />
+    </item>
+    <item
+        jar="/home/samsinha/Downloads/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/samsinha/AndroidStudioProjectst/connect4/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-eb4b945f63b0927040806e0c0f86a6442bf92039.jar" />
+    </item>
+    <item
+        jar="/home/samsinha/AndroidStudioProjectst/connect4/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/samsinha/AndroidStudioProjectst/connect4/app/build/intermediates/pre-dexed/debug/classes-40c0a2f721ab1640dbdb0ef21649ea97a407532d.jar" />
+    </item>
+
+</items>
